@@ -21,7 +21,7 @@ const Tab = createBottomTabNavigator();
 const Stack = createStackNavigator();
 
 const AboutScreen = () => {
-	return <Text>Details</Text>;
+	return <Text>Details Screen</Text>;
 };
 
 export default function App() {
